@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamil1403/otus_log/main/screenshots/log%20logo.jpg" alt="Log Logo" width="150">
+  <img src="https://raw.githubusercontent.com/kamil1403/otus_log/main/screenshots/log%20logo.jpg" alt="Log Logo" width="500">
 </p>
 
 
