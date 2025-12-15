@@ -41,3 +41,9 @@
 ```bash
 curl [http://192.168.56.10](http://192.168.56.10)
 vagrant ssh web -c "sudo touch /etc/nginx/nginx.conf"
+root@log:~# ls -R /var/log/rsyslog/
+/var/log/rsyslog/:
+log  web
+
+/var/log/rsyslog/web:
+nginx_access.log
