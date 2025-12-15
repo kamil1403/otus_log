@@ -15,11 +15,9 @@
 - [x] Тесты пройдены.
   
 **1. Генерация нагрузки (Client):**
-Отправка запросов через `curl`.
 🖼️ ![Client Requests](https://github.com/kamil1403/otus_log/blob/main/screenshots/otus_log_2.png)
 
 **2. Проверка логов (Log Server):**
-Логи успешно получены и разложены по папкам `/var/log/rsyslog/web/`.
 🖼️ ![Server Logs](https://github.com/kamil1403/otus_log/blob/main/screenshots/otus_log_1.png)
 
 ### 🧭 Оглавление
