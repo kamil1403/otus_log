@@ -2,7 +2,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Breezeicons-mimetypes-22-text-x-log.svg/512px-Breezeicons-mimetypes-22-text-x-log.svg.png" alt="Log Logo" width="150">
 </p>
 
-## ![Lesson](https://img.shields.io/badge/Lesson-otus__logs-0A84FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827)![Author](https://img.shields.io/badge/Author-Kamil%20Ibragimov-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)![Date](https://img.shields.io/badge/Date-15.12.2025-F59E0B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=111827)
 
 ## ![Lesson](https://img.shields.io/badge/Lesson-otus__logs-0A84FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827)![Author](https://img.shields.io/badge/Author-Kamil%20Ibragimov-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)![Date](https://img.shields.io/badge/Date-15.12.2025-F59E0B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=111827)
 
